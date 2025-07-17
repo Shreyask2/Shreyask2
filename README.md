@@ -1,5 +1,5 @@
 # About Me:
-Rising senior at The Hill School (Dean's List student) with a passion for AI and entrepreneurship. Co-founder of Sleek CRM, a platform designed to streamline customer relationship management for small businesses. Currently interning at Rove Miles and participating in HUVTSP, deepening my expertise in AI applications and emerging technologies. Driven by the intersection of artificial intelligence and entrepreneurial innovation, I'm focused on building solutions that make advanced technology accessible through hands-on development experience and startup growth.
+Rising senior at The Hill School with a passion for AI and entrepreneurship. Co-founder of Sleek CRM, a platform designed to streamline customer relationship management for small businesses. Currently interning at Rove Miles and participating in HUVTSP, deepening my expertise in AI applications and emerging technologies. Driven by the intersection of artificial intelligence and entrepreneurial innovation, I'm focused on building solutions that make advanced technology accessible through hands-on development experience and startup growth.
 
 
 ## 🌐 Socials:
